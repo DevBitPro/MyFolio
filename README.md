@@ -42,13 +42,13 @@ If you'd like to explore the static frontend of this portfolio website, you can 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/DevBitPro/MyFolio.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-portfolio
+   cd MyFolio
    ```
 
 3. Backend development progress:
